@@ -4,6 +4,7 @@ meme_dict = {
             "CYA": "Görüşürüz!",
             "K": "Okay'in kısaltılmış hali, tamam",
             "WDYM": "Neyden bahsediyorsun? demek",
+            "o7": "Asker selamı olarak da bilinir",
             }
 
 
